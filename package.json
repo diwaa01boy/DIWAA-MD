@@ -1,9 +1,9 @@
 {
   "name": "raganork-md",
   "version": "3.0.5",
-  "description": " Diwaa md bot- Multi device version.",
+  "description": "Raganork whatsapp bot- Multi device version.",
   "scripts": {
-    "start": "pm2 start . --attach --name Diwaa"
+    "start": "pm2 start . --attach --name Raganork"
   },
   "repository": {
     "type": "git",
