@@ -7,7 +7,7 @@
 ​
 <p>THIS IS ONLY TEST</p>
 ​
-<img src="https://i.imgur.com/oq3ZkMq.jpeg" alt="Flowers in Chania" width="460" height="345">
+<img src="https://i.imgur.com/oq3ZkMq.jpeg" alt="diwaa picture" width="460" height="345">
 ​
 </body>
 </html>
